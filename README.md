@@ -10,7 +10,7 @@ I recently started in the world of computing. I am excited about this great road
 
 ## 
 * ☕️ Coffee Lover <3
-* 📚 Scientific College of Alajuela.
+* 📚 Scientific High School of Alajuela.
 * 🗳 Currently working at: @nothing
 * 💻 I’m currently learning artificial intelligence development
 * ⚙️ I want to become part of the quantum computing family.
