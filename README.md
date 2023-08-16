@@ -29,9 +29,8 @@ I recently started in the world of computing. I am excited about this great road
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllanDBB&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=e4c5c4&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/AllanDBB/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AllanDBB&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=e4c5c4&bg_color=1d1f21"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDBB&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=e4c5c4&bg_color=1d1f21&langs_count=3" />
 </a>
-
 
 
 
