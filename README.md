@@ -10,11 +10,10 @@ I recently started in the world of computing. I am excited about this great road
 
 ## 
 * ☕️ Coffee Lover <3
-* 📚 Scientific High School of Alajuela.
-* 🗳 Currently working at: @nothing
-* 💻 I’m currently learning artificial intelligence development
-* ⚙️ I want to become part of the quantum computing family.
-* 🌹 I am committed to my work and effort to always give my best version
+* 📚 CCAL | ITCR | Computer Engineer.
+* 🗳 Currently working at: @ccalajuela in web development
+* 💻 I am currently interested in the development of artificial intelligence.
+
 
 ## 🍵 Knowledge:
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=e4c5c4)
