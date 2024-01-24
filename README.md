@@ -11,7 +11,7 @@ I recently started in the world of computing. I am excited about this great road
 ## 
 * ☕️ Coffee Lover <3
 * 📚 CCAL | ITCR | Computer Engineer.
-* 🗳 Currently working at: @ccalajuela in web development
+* 🗳 Currently working at: @ccalajuela in web development, @sagebox as CEO | Software Engineer
 * 💻 I am currently interested in the development of artificial intelligence.
 
 
