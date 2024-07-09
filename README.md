@@ -16,8 +16,11 @@ From Costa Rica 🦥.
   </a>
 </p>
 
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allandbb&theme=soft-green" alt="AllanDBB" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allandbb&layout=compact&theme=dark" alt="AllanDBB" /></p>
+
+
+
 
 <h3>Do you want to contact me? </h3>
 <p >
