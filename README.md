@@ -12,7 +12,7 @@ From Costa Rica 🦥.
 <p align="center">
   <h3>Technologies: <h3/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,vue,astro,django,nodejs,express,github,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,vue,astro,django,nodejs,express,github,vscode,solidity&perline=14" />
   </a>
 </p>
 
