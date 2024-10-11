@@ -4,6 +4,7 @@ Currently immersed in the world of computer science, I am actively pursuing my s
 From Costa Rica 🦥.
 
 * 📚 CCAL | ITCR | Computer Engineer.
+* 🦥 IEEE | EMBS-TEC Chair.
 * 🗳 Currently working at: @ccalajuela in web development.
 * 💻 I am currently interested in: blockchain, software development, and quantum computers
 
