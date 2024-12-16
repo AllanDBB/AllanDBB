@@ -5,7 +5,10 @@ From Costa Rica 🦥.
 
 * 📚 CCAL | ITCR | Computer Engineer.
 * 🦥 IEEE | EMBS-TEC Chair.
-* 🗳 Currently working at: @ccalajuela in web development.
+* 🗳 Currently working at: 
+  ** @ccalajuela in web development.
+  ** @petziclub as Full Stack developer.
+  ** @embstec as Chair Student.
 * 💻 I am currently interested in: bioinformatics, algorithms and quantum computers.
 
 ## 🍵 Skills:
