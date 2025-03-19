@@ -4,12 +4,14 @@ Currently immersed in the world of computer science, I am actively pursuing my s
 From Costa Rica 🦥.
 
 * 📚 CCAL | ITCR | Computer Engineer.
-* 🦥 IEEE | EMBS-TEC Chair.
+* 🍵 Eat-Easy CEO.
+* 🦥 IEEE | EMBS-TEC Chair | ComputerIEEE-TEC ViceChair.
 * 🗳 Currently working at: <br>
   * @ccalajuela in web development. <br>
-  * @petziclub as Full Stack developer. <br>
+  * @computerieee  as ViceChair Student<br>
   * @embstec as Chair Student. <br>
-* 💻 I am currently interested in: bioinformatics, algorithms and quantum computers.
+* Recently I founded my start-up "Eat-Easy APP" 
+* 💻 I am currently interested in: bioinformatics, startups, algorithms and quantum computers.
 
 ## 🍵 Skills:
 
