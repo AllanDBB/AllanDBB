@@ -4,7 +4,7 @@ Currently immersed in the world of computer science, I am actively pursuing my s
 From Costa Rica 🦥.
 
 * 📚 CCAL | ITCR | Computer Engineer.
-* 🍵 Eat-Easy CEO.
+* 🍵 EatVoo CEO.
 * 🦥 IEEE | EMBS-TEC Chair | ComputerIEEE-TEC ViceChair.
 * 🗳 Currently working at: <br>
   * @ccalajuela in web development. <br>
