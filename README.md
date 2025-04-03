@@ -10,7 +10,7 @@ From Costa Rica 🦥.
   * @ccalajuela in web development. <br>
   * @computerieee  as ViceChair Student<br>
   * @embstec as Chair Student. <br>
-* Recently I founded my start-up "Eat-Easy APP" 
+* Recently I founded my start-up "EatVoo APP" 
 * 💻 I am currently interested in: bioinformatics, startups, algorithms and quantum computers.
 
 ## 🍵 Skills:
