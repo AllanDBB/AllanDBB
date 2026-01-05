@@ -22,8 +22,6 @@ From Costa Rica 🦥.
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allandbb&theme=soft-green" alt="AllanDBB" /></p>
-
 <h3>Do you want to contact me? </h3>
 <p >
   <a href="https://www.linkedin.com/in/allandbb/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="45" /></a>
